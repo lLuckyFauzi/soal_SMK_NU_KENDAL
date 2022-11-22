@@ -1,6 +1,6 @@
 # Quiz Javascript
 
-## Convert Year to Day
+### Convert Year to Day
 ```
 2 ==> 720 days
 24 ==> 8640 days
