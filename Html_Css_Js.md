@@ -84,3 +84,47 @@ b. height: 250px;
 c. min-width: 500px;
 d. max-widht: 200px;
 ```
+
+## Javascript
+
+### 11. Untuk menampilkan sesuatu di console yang benar adalah...
+```
+a. console.test("Halo")
+b. console.log("Love You")
+c. function("Hai")
+d. log("asd")
+```
+
+### 12. Penulisan function yang benar adalah...
+```
+a. function SayHello{} ()
+b. SayHello function() {}
+c. function SayHello() {}
+d. const Hello;
+```
+
+### 13. Yang termasuk Arrow Function di bawah ini adalah...
+```
+a. () -> {}
+b. {} => {}
+c. () ==> ()
+d. () => {}
+```
+
+
+```
+15. function calculate(panjang, lebar) {
+  const calculate = panjang * lebar;
+
+  return calculate;
+}
+console.log(calculate(5, 5));
+```
+### 14. Hasil dari output function di atas yang benar adalah
+```
+a. 100
+b. 250
+c. 25
+d. 30
+```
+
