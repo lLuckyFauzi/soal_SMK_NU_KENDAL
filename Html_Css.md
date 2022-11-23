@@ -43,7 +43,7 @@ d. <title>Hello</title>
 ```
 
 
-**## CSS**
+## CSS
 
 ### 6. Agar text menjadi bold, cara penulisan css yang benar di bawah ini adalah...
 ```
