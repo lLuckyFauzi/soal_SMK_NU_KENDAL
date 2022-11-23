@@ -43,7 +43,7 @@ d. <title>Hello</title>
 ```
 
 
-CSS
+**## CSS**
 
 ### 6. Agar text menjadi bold, cara penulisan css yang benar di bawah ini adalah...
 ```
@@ -75,4 +75,12 @@ a. color: blue;
 b. color-background: red;
 c. background-color: lightblue;
 d. background: 100px;
+```
+
+### 10. Property untuk menambahkan tinggi pada box dalam css adalah...
+```
+a. widht: 100px;
+b. height: 250px;
+c. min-width: 500px;
+d. max-widht: 200px;
 ```
