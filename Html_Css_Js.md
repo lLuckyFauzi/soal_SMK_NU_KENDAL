@@ -111,7 +111,7 @@ c. () ==> ()
 d. () => {}
 ```
 
-### 14. Hasil dari output function di atas yang benar adalah...
+### 14. Hasil dari output function di bawah ini yang benar adalah...
 ```
 function calculate(panjang, lebar) {
   const calculate = panjang * lebar;
