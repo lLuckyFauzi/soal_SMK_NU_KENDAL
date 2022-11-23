@@ -111,20 +111,26 @@ c. () ==> ()
 d. () => {}
 ```
 
-
+### 14. Hasil dari output function di atas yang benar adalah...
 ```
-15. function calculate(panjang, lebar) {
+function calculate(panjang, lebar) {
   const calculate = panjang * lebar;
 
   return calculate;
 }
 console.log(calculate(5, 5));
-```
-### 14. Hasil dari output function di atas yang benar adalah
-```
+
 a. 100
 b. 250
 c. 25
 d. 30
+```
+
+### 15. True atau False termasuk kedalam tipe data?...
+```
+a. Boolean
+b. String
+c. Number
+d. Integer
 ```
 
