@@ -41,3 +41,38 @@ b. <link href="stylesheet" rel="style.js">
 c. <div style='width: 100px;' ></div>
 d. <title>Hello</title>
 ```
+
+
+CSS
+
+### 6. Agar text menjadi bold, cara penulisan css yang benar di bawah ini adalah...
+```
+a. font-height: bold;
+b. font-weight: 700;
+c. text: bold;
+d. color: blue;
+```
+
+### 7. Untuk mengubah ukuran text pada CSS yang benar dibawah ini adalah...
+```
+a. font-weight: 400;
+b. font-size: 100;
+c. font-size: 40px;
+d. text-align: center;
+```
+
+### 8. Cara mengubah warna pada text di dalam CSS yang benar adalah...
+```
+a. color: lightblue;
+b. font-weight: 100;
+c. text-color: blue;
+d. text-size: 10px;
+```
+
+### 9. Property untuk mengubah warna pada background menggunakan CSS yang benar adalah...
+```
+a. color: blue;
+b. color-background: red;
+c. background-color: lightblue;
+d. background: 100px;
+```
